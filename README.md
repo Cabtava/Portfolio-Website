@@ -702,6 +702,4 @@ module.exports = {
 ```
 
 </details>
-
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
 </a>
